@@ -1,2 +1,4 @@
 node_modules
 package-lock.json
+cypress/e2e
+!cypress/e2e/post1.cy.js
